@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Stylizer",
+  "description": "An advanced AI-powered image generation tool that creates a new image based on a reference photo and a detailed text prompt, using the Gemini API.",
+  "requestFramePermissions": []
+}
